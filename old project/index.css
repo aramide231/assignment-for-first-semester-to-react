@@ -1,0 +1,479 @@
+html,
+body {
+   width: 100%;
+   height: 100%;
+   margin: 0;
+   padding: 0;
+   overflow-x: hidden;
+}
+
+
+
+
+
+
+
+.body {
+   width: 1500px;
+   height: fit-content;
+   position: relative;
+   background: white;
+   border: 1px solid;
+
+}
+
+
+.vector {
+   position: relative;
+   bottom: 500px;
+   right: 10px;
+}
+
+.embeded {
+   position: relative;
+   bottom: 612px;
+   left: 770px;
+   color: #0065FE;
+   font-size: 15px;
+
+}
+
+.blue {
+   color: #0065FE;
+   word-spacing: -4px;
+   position: relative;
+   right: 50px;
+}
+
+.embed {
+   position: relative;
+   left: 30px;
+   border: 1px solid;
+   padding: 5px 15px;
+   background-color: #0065FE;
+   color: #FFFFFF;
+   height: 142px;
+   width: 44px;
+   border-radius: 100px;
+}
+
+.Features {
+   position: relative;
+
+}
+
+.arrow {
+   position: relative;
+
+}
+
+.center {
+   position: relative;
+   left: 310px;
+   font-size: 20px;
+   font: Gilroy-Bold;
+   width: 948px;
+   color: #141414;
+   font-family: sans-serif;
+   bottom: 20px;
+   width: 3000px;
+}
+
+.advanced {
+   position: relative;
+   left: 67px;
+}
+
+.solution {
+   color: #005AE2;
+}
+
+.import {
+   position: relative;
+   left: 525px;
+   bottom: 32px;
+}
+
+.brand {
+   position: relative;
+   left: 400px;
+   font-size: 11px;
+   bottom: 30px;
+   font-family: sans-serif;
+   width: 1000px;
+   font-weight: -100px;
+
+}
+
+
+.dog {
+   word-spacing: 1px;
+   position: relative;
+   right: 7px;
+}
+
+.enhance {
+   position: relative;
+   left: 148px;
+}
+
+.signup {
+   font-family: sans-serif;
+   font-size: 13px;
+   position: relative;
+   left: 550px;
+}
+
+.sign {
+   position: relative;
+   border: 1px solid;
+   left: 5px;
+   padding: 5px 20px;
+   border-radius: 200px;
+   background-color: #0065FE;
+   color: var(--neutral-white, #FFF);
+   font-size: 12px;
+   line-height: 12px;
+   word-spacing: -2px;
+   padding-right: 20px;
+   padding-bottom: 8px;
+}
+
+.learn {
+   position: inherit;
+   left: 67px;
+   color: #0065FE;
+}
+
+.box {
+   height: 50px;
+   width: 250px;
+   position: relative;
+
+}
+
+.splash {
+   width: auto;
+   height: 404.90px;
+   left: 191px;
+   top: 0px;
+   position: absolute
+}
+
+.bgsplash1 {
+   width: 199.10px;
+   height: 215.08px;
+   left: 0px;
+   top: 0px;
+   position: absolute;
+   background: #D60505;
+   box-shadow: 700px 700px 700px;
+   border-radius: 9999px;
+   filter: blur(700px)
+}
+
+.bgsplash2 {
+   width: 199.10px;
+   height: 215.08px;
+   left: 270px;
+   top: 11.90px;
+   position: absolute;
+   background: #067808;
+   box-shadow: 700px 700px 700px;
+   border-radius: 9999px;
+   filter: blur(700px)
+}
+
+.bgsplash3 {
+   width: 199.10px;
+   height: 215.08px;
+   left: 270px;
+   top: 11.90px;
+   position: absolute;
+   background: #067808;
+   box-shadow: 700px 700px 700px;
+   border-radius: 9999px;
+   filter: blur(700px)
+}
+
+.text {
+   left: 70px;
+   top: 500px;
+   position: absolute;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+   gap: 32px;
+   display: inline-flex;
+   font-family: sans-serif;
+   font-size: 12px;
+
+}
+
+
+.cat {
+   position: relative;
+   top: 150px;
+}
+
+.part {
+   position: relative;
+   bottom: 565px;
+   left: 360px;
+}
+
+.pen {
+   position: relative;
+   word-spacing: 30px;
+   left: 30px;
+}
+
+.space {
+   width: 500px;
+   height: 100px;
+   padding-left: 60px;
+   padding-right: 60px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   left: 400px;
+   top: 500px;
+   position: absolute;
+   background: rgba(254, 254, 254, 0.10);
+   border-radius: 24px;
+   border-left: 0.25px #005AE2 solid;
+   border-top: 0.25px #005AE2 solid;
+   border-right: 0.25px #005AE2 solid;
+   border-bottom: 0.25px #005AE2 solid;
+   backdrop-filter: blur(212px);
+   flex-direction: column;
+   justify-content: center;
+   align-items: flex-start;
+   gap: 16px;
+   display: inline-flex;
+   font-family: sans-serif;
+   text-align: center;
+   z-index: 2;
+}
+
+.box {
+   position: relative;
+
+
+}
+
+.corn {
+   position: relative;
+   font-size: 10px;
+   left: 150px;
+
+}
+
+.spill {
+   position: relative;
+   font-size: 10px;
+   left: 175px;
+   bottom: 10px;
+}
+
+.cone {
+   height: 225px;
+   position: relative;
+   top: 220px;
+   left: 405px;
+   transform: rotate(2.822deg);
+   z-index: 1;
+
+}
+
+.rectangle {
+   position: relative;
+   top: 300px;
+}
+
+.eclipse {
+   position: relative;
+   top: 200px;
+   left: 200px;
+}
+
+.body2 {
+   width: 1500px;
+   height: fit-content;
+   position: relative;
+   background: white;
+   border: 1px solid;
+   margin-top: 238px;
+}
+
+.second {
+   display: flex;
+   padding: 25px 100px;
+   justify-content: left;
+   align-items: center;
+   gap: 130px;
+   right: 400px;
+   font-family: sans-serif;
+}
+
+.possible {
+   color: #0065FE;
+}
+
+.m {
+   text-align: left;
+}
+
+.f {
+   text-align: left;
+}
+
+.r {
+   text-align: left;
+}
+
+.Q {
+   text-align: left;
+}
+
+.a {
+   font-size: 10px;
+}
+
+.b {
+   font-size: 10px;
+}
+
+.j {
+   font-size: 10px;
+}
+
+.w {
+   font-size: 10px;
+}
+
+.patner {
+   height: 1500px;
+   width: fit-content;
+}
+.boy{
+   display: flex;
+   padding: 25px 100px;
+   justify-items: left;
+   align-items: center;
+   gap: 100px;
+   right: 400px;
+   font-family: sans-serif;
+font-size: smaller;
+width: 1000px;
+justify-content: space-around;
+margin-top: 100px;
+left: 30px;
+height: fit-content;
+}
+
+.setemi{
+   position: relative;
+   bottom: 100px;
+   
+}
+.s{
+   color: #0065FE;
+}
+.k{
+   position: relative;
+   left: 10px;
+   bottom: 20px;
+}
+.picture{
+   height: 30px;
+   position: relative;
+   top: 30px;
+}
+.egg{
+height: 40px;
+right: 53px;
+bottom:8px;
+position: relative;
+}
+.garri{
+   position: relative;
+   right: 49px;
+   bottom: 10px;
+}
+.akara{
+   position: relative;
+   right: 45px;
+   bottom: 10px;
+}
+.stew{
+   position: relative;
+   right: 45px;
+   bottom: 10px;
+}
+.up{
+   position: relative;
+   bottom: 40px ;
+}
+.up2{
+   position: relative;
+   bottom: 40px ;
+}
+.pot{
+   position: relative;
+   bottom: 1000px;
+   font-family: sans-serif;
+   right: 100px;
+}
+.textdragger{
+   position: relative;
+   bottom: 900px;
+   right: 100px;
+}
+.up3{
+   position: relative;
+   bottom: 700px;
+   right: 100px;
+}
+.up4{
+   top: 2000px;
+}
+.almostdone{
+   position: relative;
+   bottom: 700px;
+   right: 100px;
+}
+.done{
+   position: relative;
+   bottom: 700px;
+   right: 100px; 
+}
+.row{
+display: flexbox;
+position: relative;
+bottom: 1155px;
+left: 55px;
+
+}
+.scissor{
+
+}
+.instagram{
+   position: relative;
+   left: 50px;
+   bottom: 2px;
+}
+.twitter{
+   position: relative;
+   top: 25px;
+   
+}
+.linkedin{
+   position: relative;
+   left: 100px;
+   bottom: 30px;
+}
+.facebook{
+   position: relative;
+   left: 150px;
+   bottom: 60px;
+}
